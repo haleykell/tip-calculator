@@ -1,6 +1,6 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - *TipMe*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipMe** is a tip calculator application for iOS.
 
 Submitted by: **Haley Kell**
 
@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-I'm new to iOS programming, so finding the right resources to help solve problems was challenging. I enjoyed getting to create an app that has the potential for extra features and being able to design and implement those on my own. Specifically, I spent more time figuring out how to incorporate my settings from the Settings view controller to the tip calculator view controller.
+I'm new to iOS programming, so finding the right resources to help solve problems was challenging. I enjoyed getting to create an app that has the potential for extra features and being able to design and implement those on my own. Specifically, I spent more time figuring out how to incorporate the settings changes from the Settings view controller to the tip calculator view controller without restarting the app. I also had to figure out how to incorporate settings across restarts of the app. Another challenge was checking if the last restart was less than ten minutes ago.
 
 ## License
 
